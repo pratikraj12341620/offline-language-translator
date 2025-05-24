@@ -1,4 +1,4 @@
-#  Pratik Raj – Internship Portfolio
+# 💼 Pratik Raj – Internship Portfolio
 
 Welcome to my internship project repository! This includes work on two major domains:
 
@@ -7,11 +7,11 @@ Welcome to my internship project repository! This includes work on two major dom
 
 ---
 
-##  Phase 1: Cryptography and Secure Communication
+## 🔐 Phase 1: Cryptography and Secure Communication
 
 In this phase, I explored the foundations and practical applications of cryptography in modern digital communication. This includes understanding the workings of SSL/TLS protocols, encryption algorithms, and hashing techniques.
 
-###  Learning Path Overview
+### 🚢 Learning Path Overview
 
 ```
 1. Introduction to Cryptography
@@ -26,7 +26,7 @@ In this phase, I explored the foundations and practical applications of cryptogr
 8. Application in Blockchain and Cryptocurrencies
 ```
 
-###  Key Concepts Covered
+### 🧠 Key Concepts Covered
 
 * **Cryptography Basics** – How plaintext is encrypted and decrypted.
 * **SSL/TLS Protocols** – Encrypting web communication.
@@ -38,19 +38,19 @@ In this phase, I explored the foundations and practical applications of cryptogr
 * **Digital Signatures** – Ensures message integrity and authenticity.
 * **Blockchain** – Basics of decentralized security and real-world application.
 
-###  Tools & Skills Utilized
+### 🛠 Tools & Skills Utilized
 
 * **Languages:** Python, C, Java
 * **Libraries:** `hashlib`, `cryptography`
 * **Tools/Environments:** VS Code, Terminal
 
-###  Outcomes
+### ✅ Outcomes
 
 * Developed understanding of secure communication protocols.
 * Covered AES, DES, SHA in detail beyond the basics.
 * Strong theoretical grounding for building secure systems.
 
-###  Planned Implementation (This Week)
+### 🗓️ Planned Implementation (This Week)
 
 | Task                                     | Status        |
 | ---------------------------------------- | ------------- |
@@ -63,11 +63,11 @@ In this phase, I explored the foundations and practical applications of cryptogr
 
 ---
 
-##  Phase 2: Offline Language Translator
+## 🌐 Phase 2: Offline Language Translator
 
 The objective of this project is to build a multilingual offline translation tool using pre-trained models. This tool will enable users to translate between languages such as Hindi, Urdu, Burmese, and English without internet connectivity.
 
-###  Project Exploration
+### ✅ Project Exploration
 
 * **Explored Pretrained Models:**
 
@@ -82,20 +82,20 @@ The objective of this project is to build a multilingual offline translation too
   * Tokenization, model inference, and decoding translated outputs.
   * Differences between online vs. offline translation tools.
 
-###  Project Flow
+### 🧠 Project Flow
 
 ```
 Input Sentence → Tokenize → Pass to M2M100 → Decode → Output Translation
 ```
 
-###  Technologies Used
+### 🛠 Technologies Used
 
 * Python
 * Hugging Face Transformers & Tokenizers
 * PyTorch
 * Jupyter Notebook, VS Code
 
-###  Current Status
+### 🔍 Current Status
 
 * [x] Project goal and tools finalized
 * [x] Researched available models and evaluated offline usage
@@ -106,7 +106,7 @@ Input Sentence → Tokenize → Pass to M2M100 → Decode → Output Translation
 
 ---
 
-##  About Me
+## 👨‍🏫 About Me
 
 **Name:** Pratik Raj
 **Institution:** IIT Bhilai (Electrical Engineering, Batch of 2027)
@@ -117,7 +117,7 @@ Input Sentence → Tokenize → Pass to M2M100 → Decode → Output Translation
 
 ---
 
-##  Daily Updates
+## 📌 Daily Updates
 
 Daily tasks and logs are maintained in the [Projects](https://github.com/pratikraj12341620) tab or tracked via commits/issues.
 
