@@ -4,7 +4,7 @@ An offline tool that translates text between multiple languages using Hugging Fa
 
 ---
 
-## 🎯 What This Project Does
+##  What This Project Does
 
 - Translates text from one language to another  
 - Works completely offline (great for secure or remote environments)  
@@ -12,13 +12,13 @@ An offline tool that translates text between multiple languages using Hugging Fa
 
 ---
 
-## 💡 Why This Project?
+##  Why This Project?
 
 I'm currently building this tool during my **internship at DRDO**, where internet-free tools are essential. The idea is to help users translate languages **without relying on cloud services** like Google Translate.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**  
 - **Hugging Face Transformers** (`m2m100` model)  
@@ -28,7 +28,7 @@ I'm currently building this tool during my **internship at DRDO**, where interne
 
 ---
 
-## ✅ Features (Planned)
+##  Features (Planned)
 
 - [x] Project idea and goal defined  
 - [ ] Run `m2m100` model locally  
@@ -39,16 +39,16 @@ I'm currently building this tool during my **internship at DRDO**, where interne
 
 ---
 
-## 🗓️ Progress Logs
+##  Progress Logs
 
 Daily updates are in the [`logs/`](logs/) folder — check there to see what’s happening!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **Email**: [pratikee620@gmail.com](mailto:pratikee620@gmail.com)
 
 ---
 
-> ✨ Built with passion for AI, language, and making tools accessible — even without the internet!
+
